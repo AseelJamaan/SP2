@@ -26,6 +26,6 @@ The ideas presented in this work serve as the main foundation for the approach w
 | Aseel | https://www.researchgate.net/publication/383309972_A_Deep_Reinforcement_Learning-Based_Adaptive_Large_Neighborhood_Search_for_Capacitated_Electric_Vehicle_Routing_Problems | https://arxiv.org/pdf/2302.14678 |
 | Dalia | https://arxiv.org/pdf/1911.09539 | https://www.sciencedirect.com/science/article/pii/S1877050925029503 |
 | Dhai  | https://arxiv.org/html/2412.09090v1 | https://arxiv.org/pdf/2506.02746 |
-| Myasem | https://pure.tue.nl/ws/portalfiles/portal/53407941/31507-Article-Text-35564-1-2-20240530_1.pdf | https://arxiv.org/abs/2601.11414 |
+| Myasem | https://pure.tue.nl/ws/portalfiles/portal/353407941/31507-Article_Text-35564-1-2-20240530_1_.pdf | https://arxiv.org/abs/2601.11414 |
 | Noor | https://arxiv.org/pdf/2403.08839 | https://arxiv.org/pdf/2412.09090 |
 | Zhrah | https://ojs.aaai.org/index.php/ICAPS/article/view/31507/33667 | https://www.sciencedirect.com/science/article/pii/S111001682501035X |
